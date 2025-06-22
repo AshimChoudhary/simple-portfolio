@@ -19,6 +19,8 @@ const tabs = [
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
             image="https://www.alucoildesign.com/assets/global/img/portfolio/400x300/1.jpg"
+                        link="https://www.google.com"
+
           />
         ))}
       </div>
@@ -42,6 +44,8 @@ const tabs = [
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
             image="https://assets.buzzmag.co.uk/uploads/2023/04/suzame-featured-image-400x300.png"
+                        link="https://www.google.com"
+
           />
         ))}
       </div>
@@ -59,6 +63,8 @@ const tabs = [
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
             image="https://i.pinimg.com/400x300/c3/cf/e8/c3cfe8685b53d9796732dbbb5da9db67.jpg"
+                        link="https://www.google.com"
+
           />
         ))}
       </div>
